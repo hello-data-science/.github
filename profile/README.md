@@ -1,3 +1,3 @@
-# Hello Data Science
+# Hello Data Science 🤗
 
-Start your data science journey here! 👋
+👋 Start your data science journey [here](https://hello-data-science.github.io/hds/)! 🐇🕳️
